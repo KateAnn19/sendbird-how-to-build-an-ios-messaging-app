@@ -2,7 +2,7 @@
 
 ## Download Sample Project
 
-You can download the sample project from this [link](https://github.com/smilefam/mymessenger_tutorial.git):
+You can download the sample project from this [link](https://github.com/smilefam/sendbird_mymessenger_tutorial.git):
 
 ## Features
 
